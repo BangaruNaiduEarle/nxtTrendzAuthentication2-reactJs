@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.product-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.product-item {
+  width: 300px;
+  height: 260px;
+}
